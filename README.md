@@ -16,4 +16,4 @@ programming, numerical simulation and large data pipelines.
 
 **Looking for** R&D roles in GPU computing, HPC and applied AI.
 
-📫 ablesarodriguez@gmail.com · [LinkedIn](https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/arnau-blesa-rodriguez)
+📫 ablesarodriguez@gmail.com · [LinkedIn] https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/arnau-blesa-rodriguez
