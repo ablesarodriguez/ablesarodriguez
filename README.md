@@ -1,8 +1,9 @@
 ### Hi, I'm Arnau 👋
 
-Computer Engineering at Universitat Autònoma de Barcelona, working as a
+MSc student in Research and Innovation in Computer-Based Science and
+Engineering (RICSE) at Universitat Autònoma de Barcelona, and part-time
 research engineer at IEEC. I like making heavy computations fast: GPU
-programming, numerical simulation and large data pipelines.
+programming, AI acceleration, numerical simulation and large data pipelines.
 
 **Projects**
 - [r2net-cuda](https://github.com/ablesarodriguez/r2net-cuda): CUDA
