@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Arnau 👋
 
-<!--
-**ablesarodriguez/ablesarodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering at Universitat Autònoma de Barcelona, working as a
+research engineer at IEEC. I like making heavy computations fast: GPU
+programming, numerical simulation and large data pipelines.
 
-Here are some ideas to get you started:
+**Projects**
+- [r2net-cuda](https://github.com/ablesarodriguez/r2net-cuda): CUDA
+  acceleration of a neural lossless image coder, up to 583.8× faster than
+  the sequential baseline.
+- [kerr-black-hole-simulator](https://github.com/ablesarodriguez/kerr-black-hole-simulator):
+  real-time Kerr ray tracer in GLSL, validated against analytical results.
+- [survey-tabulator](https://github.com/ablesarodriguez/survey-tabulator):
+  desktop tool that tabulates two-million-row SPSS files in 15 seconds
+  without loading them into memory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Looking for** R&D roles in GPU computing, HPC and applied AI.
+
+📫 tu.email@ejemplo.com · [LinkedIn](https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/arnau-blesa-rodriguez)
